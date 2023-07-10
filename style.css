@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color:burlywood ;
+    border-color: brown;
+}
+     #home{
+        background: rebeccapurple;
+     }
+     img{
+        text-align: left;
+     }
+     p{
+        text-align: var(img) ;
+     }
+     div{
+        margin-left: 25%;
+        margin-right: 25%;
+
+     }
+      P{
+        margin-left: 25;
+      }
+      button{
+         margin-left: 95%;
+         margin-top: 10%;
+         color: blue;
+         box-sizing: 20;
+      }
